@@ -38,18 +38,8 @@ const About = () => {
       <h2>NATIONAL CADET CORPS (NCC SECOND LINE OF DEFENCE)
       </h2>
       
-        <ul>
-            <li>
-            NCC is the second line of defence, as it provides a large number of trained young people who could be employed for the defence of the country.
-            </li>
-            <li>
-            NCC is the second line of defence, as it provides a large number of trained young people who could be employed for the defence of the country.
-            </li>
-            <li>
-            NCC is the second line of defence, as it provides a large number of trained young people who could be employed for the defence of the country.
-            </li>
 
-     </>
+      </>
   );
 };
 
